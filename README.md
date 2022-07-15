@@ -1,6 +1,6 @@
 # GIF-Maker
 
-![Project Image](https://i.imgur.com/IVqh8xn.gif)
+![Project Image](https://i.imgur.com/gdFss31.gif)
 
 > Gif Maker Project - Made for Magshimim first year final project
 
