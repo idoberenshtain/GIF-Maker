@@ -41,6 +41,7 @@ You're sections headers will be used to reference location of destination.
 ## Installation
 
     Install opencv
+    Install VisualStudio
 
 ## License
 
