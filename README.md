@@ -1,4 +1,4 @@
-# GIF-Maker
+# GIF-Maker | Grade 100
 
 ![Project Image](https://i.imgur.com/gdFss31.gif)
 
