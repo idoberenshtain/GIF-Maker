@@ -1,0 +1,10 @@
+﻿  view.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+view.obj : error LNK2001: unresolved external symbol cvWaitKey
+view.obj : error LNK2001: unresolved external symbol cvReleaseImage
+view.obj : error LNK2001: unresolved external symbol cvLoadImage
+view.obj : error LNK2001: unresolved external symbol cvDestroyWindow
+view.obj : error LNK2001: unresolved external symbol cvShowImage
+view.obj : error LNK2001: unresolved external symbol cvCreateImage
+view.obj : error LNK2001: unresolved external symbol cvNamedWindow
+C:\Users\idobe\Documents\Magshimim\תכנות\GIF Maker - Final Project\GIF_MAKER\x64\Release\GIF_MAKER.exe : fatal error LNK1120: 7 unresolved externals

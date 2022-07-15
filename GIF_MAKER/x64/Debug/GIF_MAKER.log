@@ -1,0 +1,11 @@
+﻿  Functions.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\idobe\Documents\Magshimim\תכנות\GIF Maker - Final Project\GIF_MAKER\GIF_MAKER\Functions.c(47,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\idobe\Documents\Magshimim\תכנות\GIF Maker - Final Project\GIF_MAKER\GIF_MAKER\Functions.c(48,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  PrintFunctions.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+  SaveOrLoad.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\idobe\Documents\Magshimim\תכנות\GIF Maker - Final Project\GIF_MAKER\GIF_MAKER\PrintFunctions.c(92): warning C4716: 'filtersAvailable': must return a value
+  GIF_MAKER.vcxproj -> C:\Users\idobe\Documents\Magshimim\תכנות\GIF Maker - Final Project\GIF_MAKER\x64\Debug\GIF_MAKER.exe
